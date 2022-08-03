@@ -14,7 +14,7 @@ public class fileStreamtest_Titanic {
         PrintWriter outputStream=null;
         ArrayList<Passenger> group= new ArrayList<Passenger>();
        try {
-          inputStream= new Scanner ( new FileInputStream("titanic_data.txt.txt")); //java looks for file "student.txt"
+          inputStream= new Scanner ( new FileInputStream("titanic_data.txt.txt")); //java looks for file "titanic_data.txt"
           outputStream = new PrintWriter( new FileOutputStream("Titanic output"));
        }
        catch (FileNotFoundException e) {
