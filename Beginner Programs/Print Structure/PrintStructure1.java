@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q5PrintStructure {
+public class PrintStructure1 {
 
        public static void main(String[] args) {
 
