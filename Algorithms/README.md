@@ -1,1 +1,1 @@
-This folder consists of algorthms and implementations when learning to code in college.
+This folder consists of algorthms and implementations that I completed when learning to code in college.
