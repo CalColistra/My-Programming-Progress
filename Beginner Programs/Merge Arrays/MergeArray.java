@@ -1,4 +1,4 @@
-public class Q4MergyArray {
+public class MergeArray {
 
        public static void main(String[] args) {
 
