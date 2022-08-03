@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class q7 {
+public class printStructure2 {
 
 	public static void main(String[] args) {
 		
