@@ -10,3 +10,6 @@
 	      LDI	r4	7	<-- load register 4 with the value 7
 	      LDM	r3	6	<-- load register 3 with the value in memory location 6
 	      ST	9	r3	<-- store the value in register 3 in memory location 9
+	      
+	      
+The test files demonstrate the use of all the instructions.
