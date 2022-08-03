@@ -4,7 +4,7 @@ Lab 9
 3/29/21
 Recursive methods
 **/
-public class lab9{
+public class recursion{
 
 /**recursive method to calculate interest
 @param double amount, double interest(enter in decimal form), int numYears
