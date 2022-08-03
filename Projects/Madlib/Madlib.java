@@ -10,7 +10,7 @@ import java.io.PrintWriter;
 import java.io.FileOutputStream;
 import java.util.Collections;
 
-public class lab10part2{
+public class Madlib{
    public static void main(String [ ] args) {
        /**initialize scanner & print writer**/
        Scanner inputStream=null;
