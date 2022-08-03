@@ -1,0 +1,1 @@
+This program simulates 5,000 trials and each trial does 100 coin flips. In total it simulates 500,000 coin flips, and it keeps track of how many times 4 and 5 consecutive heads where flipped. Then it shows the ratio of amount of 4 consecutive heads to amount of 5 consecutive heads per trail. Lastly, it shows the ratio over all 5,000 trials.
