@@ -1,1 +1,1 @@
-Program to initialize an array of any size with random integers and perform insertion sort on that array. It also times how long it takes to sort and prints out the time elapsed and CPU time.
+Program to initialize an array of any size with random integers and perform insertion sort on that array. It also times how long it takes to sort and prints out the time elapsed and CPU time.   (Implemented in Visual Studios)
