@@ -1,0 +1,1 @@
+Program that initializes an array of a specified size with random integer values. Then it sorts the array by using the merge sort algorithm. It also times how long it takes to perform the merge sort. (Implemented in Visual Studios)
