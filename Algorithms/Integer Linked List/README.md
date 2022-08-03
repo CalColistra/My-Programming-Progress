@@ -1,5 +1,5 @@
 Implementation of an Integer Linked List without the use of Java ArrayList or LinkedList library classes.  IntLinkedList.java contains multiple functions to manpulate nodes of the linked list.
-List of functions and their pruposes:  
+List of functions and their purposes:  
 1. public int getLength(): takes no parameters and returns the number of elements
 in the list. For example, the list (3 5 9 3 2 4) would return length 6.
 2. public void addTail(int dataItem): takes integer dataItem as a parameter,
