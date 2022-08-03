@@ -1,0 +1,1 @@
+This program takes an input file and reads each word. Once it detects the character "<" it recognizes the clue and prompts the user to enter the type of word. Then it takes the user input and inserts it into the spot where the prompt was. Lastly, it prints the whole story with the user inputs in place of the clue.
