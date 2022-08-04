@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<JSON_ARRAY>
+	<State>Alabama</State>
+	<Murder>13.2</Murder>
+	<Assault>236</Assault>
+	<UrbanPop>58</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Alaska</State>
+	<Murder>10.0</Murder>
+	<Assault>263</Assault>
+	<UrbanPop>48</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Arizona</State>
+	<Murder>8.1</Murder>
+	<Assault>294</Assault>
+	<UrbanPop>80</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Arkansas</State>
+	<Murder>8.8</Murder>
+	<Assault>190</Assault>
+	<UrbanPop>50</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>California</State>
+	<Murder>9.0</Murder>
+	<Assault>276</Assault>
+	<UrbanPop>91</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Colorado</State>
+	<Murder>7.9</Murder>
+	<Assault>204</Assault>
+	<UrbanPop>78</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Connecticut</State>
+	<Murder>3.3</Murder>
+	<Assault>110</Assault>
+	<UrbanPop>77</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Delaware</State>
+	<Murder>5.9</Murder>
+	<Assault>238</Assault>
+	<UrbanPop>72</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Florida</State>
+	<Murder>15.4</Murder>
+	<Assault>335</Assault>
+	<UrbanPop>80</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Georgia</State>
+	<Murder>17.4</Murder>
+	<Assault>170</Assault>
+	<UrbanPop>60</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Hawaii</State>
+	<Murder>5.3</Murder>
+	<Assault>46</Assault>
+	<UrbanPop>83</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Idaho</State>
+	<Murder>2.6</Murder>
+	<Assault>120</Assault>
+	<UrbanPop>54</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Illinois</State>
+	<Murder>10.4</Murder>
+	<Assault>249</Assault>
+	<UrbanPop>83</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Indiana</State>
+	<Murder>7.2</Murder>
+	<Assault>113</Assault>
+	<UrbanPop>65</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Iowa</State>
+	<Murder>2.2</Murder>
+	<Assault>56</Assault>
+	<UrbanPop>57</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Kansas</State>
+	<Murder>6.0</Murder>
+	<Assault>115</Assault>
+	<UrbanPop>66</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Kentucky</State>
+	<Murder>9.7</Murder>
+	<Assault>109</Assault>
+	<UrbanPop>52</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Louisiana</State>
+	<Murder>15.4</Murder>
+	<Assault>249</Assault>
+	<UrbanPop>66</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Maine</State>
+	<Murder>2.1</Murder>
+	<Assault>83</Assault>
+	<UrbanPop>51</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Maryland</State>
+	<Murder>11.3</Murder>
+	<Assault>300</Assault>
+	<UrbanPop>67</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Massachusetts</State>
+	<Murder>4.4</Murder>
+	<Assault>149</Assault>
+	<UrbanPop>85</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Michigan</State>
+	<Murder>12.1</Murder>
+	<Assault>255</Assault>
+	<UrbanPop>74</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Minnesota</State>
+	<Murder>2.7</Murder>
+	<Assault>72</Assault>
+	<UrbanPop>66</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Mississippi</State>
+	<Murder>16.1</Murder>
+	<Assault>259</Assault>
+	<UrbanPop>44</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Missouri</State>
+	<Murder>9.0</Murder>
+	<Assault>178</Assault>
+	<UrbanPop>70</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Montana</State>
+	<Murder>6.0</Murder>
+	<Assault>109</Assault>
+	<UrbanPop>53</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Nebraska</State>
+	<Murder>4.3</Murder>
+	<Assault>102</Assault>
+	<UrbanPop>62</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Nevada</State>
+	<Murder>12.2</Murder>
+	<Assault>252</Assault>
+	<UrbanPop>81</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>New Hampshire</State>
+	<Murder>2.1</Murder>
+	<Assault>57</Assault>
+	<UrbanPop>56</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>New Jersey</State>
+	<Murder>7.4</Murder>
+	<Assault>159</Assault>
+	<UrbanPop>89</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>New Mexico</State>
+	<Murder>11.4</Murder>
+	<Assault>285</Assault>
+	<UrbanPop>70</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>New York</State>
+	<Murder>11.1</Murder>
+	<Assault>254</Assault>
+	<UrbanPop>86</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>North Carolina</State>
+	<Murder>13.0</Murder>
+	<Assault>337</Assault>
+	<UrbanPop>45</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>North Dakota</State>
+	<Murder>0.8</Murder>
+	<Assault>45</Assault>
+	<UrbanPop>44</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Ohio</State>
+	<Murder>7.3</Murder>
+	<Assault>120</Assault>
+	<UrbanPop>75</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Oklahoma</State>
+	<Murder>6.6</Murder>
+	<Assault>151</Assault>
+	<UrbanPop>68</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Oregon</State>
+	<Murder>4.9</Murder>
+	<Assault>159</Assault>
+	<UrbanPop>67</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Pennsylvania</State>
+	<Murder>6.3</Murder>
+	<Assault>106</Assault>
+	<UrbanPop>72</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Rhode Island</State>
+	<Murder>3.4</Murder>
+	<Assault>174</Assault>
+	<UrbanPop>87</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>South Carolina</State>
+	<Murder>14.4</Murder>
+	<Assault>279</Assault>
+	<UrbanPop>48</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>South Dakota</State>
+	<Murder>3.8</Murder>
+	<Assault>86</Assault>
+	<UrbanPop>45</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Tennessee</State>
+	<Murder>13.2</Murder>
+	<Assault>188</Assault>
+	<UrbanPop>59</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Texas</State>
+	<Murder>12.7</Murder>
+	<Assault>201</Assault>
+	<UrbanPop>80</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Utah</State>
+	<Murder>3.2</Murder>
+	<Assault>120</Assault>
+	<UrbanPop>80</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Vermont</State>
+	<Murder>2.2</Murder>
+	<Assault>48</Assault>
+	<UrbanPop>32</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Virginia</State>
+	<Murder>8.5</Murder>
+	<Assault>156</Assault>
+	<UrbanPop>63</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Washington</State>
+	<Murder>4.0</Murder>
+	<Assault>145</Assault>
+	<UrbanPop>73</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>West Virginia</State>
+	<Murder>5.7</Murder>
+	<Assault>81</Assault>
+	<UrbanPop>39</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Wisconsin</State>
+	<Murder>2.6</Murder>
+	<Assault>53</Assault>
+	<UrbanPop>66</UrbanPop>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<State>Wyoming</State>
+	<Murder>6.8</Murder>
+	<Assault>161</Assault>
+	<UrbanPop>60</UrbanPop>
+</JSON_ARRAY>
