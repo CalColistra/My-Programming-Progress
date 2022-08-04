@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<JSON_ARRAY>
+	<Year>1990</Year>
+	<underFive>93.4</underFive>
+	<Infant>64.8</Infant>
+	<Neonational>36.8</Neonational>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<Year>1991</Year>
+	<underFive>92.1</underFive>
+	<Infant>63.9</Infant>
+	<Neonational>36.3</Neonational>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<Year>1992</Year>
+	<underFive>90.9</underFive>
+	<Infant>63.1</Infant>
+	<Neonational>35.9</Neonational>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<Year>1993</Year>
+	<underFive>89.7</underFive>
+	<Infant>62.3</Infant>
+	<Neonational>35.4</Neonational>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<Year>1994</Year>
+	<underFive>88.7</underFive>
+	<Infant>61.4</Infant>
+	<Neonational>28.0</Neonational>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<Year>1995</Year>
+	<underFive>87.3</underFive>
+	<Infant>60.5</Infant>
+	<Neonational>34.4</Neonational>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<Year>1996</Year>
+	<underFive>85.6</underFive>
+	<Infant>59.4</Infant>
+	<Neonational>33.7</Neonational>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<Year>1997</Year>
+	<underFive>70.6</underFive>
+	<Infant>58.2</Infant>
+	<Neonational>33.1</Neonational>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<Year>1998</Year>
+	<underFive>82.1</underFive>
+	<Infant>56.9</Infant>
+	<Neonational>32.3</Neonational>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<Year>1999</Year>
+	<underFive>79.9</underFive>
+	<Infant>55.4</Infant>
+	<Neonational>31.5</Neonational>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<Year>2000</Year>
+	<underFive>77.5</underFive>
+	<Infant>53.9</Infant>
+	<Neonational>30.7</Neonational>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<Year>2001</Year>
+	<underFive>74.8</underFive>
+	<Infant>52.1</Infant>
+	<Neonational>29.8</Neonational>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<Year>2002</Year>
+	<underFive>72.0</underFive>
+	<Infant>50.35</Infant>
+	<Neonational>28.9</Neonational>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<Year>2003</Year>
+	<underFive>69.2</underFive>
+	<Infant>48.6</Infant>
+	<Neonational>28.0</Neonational>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<Year>2004</Year>
+	<underFive>66.7</underFive>
+	<Infant>46.9</Infant>
+	<Neonational>28.0</Neonational>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<Year>2005</Year>
+	<underFive>70.6</underFive>
+	<Infant>45.1</Infant>
+	<Neonational>26.1</Neonational>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<Year>2006</Year>
+	<underFive>61.1</underFive>
+	<Infant>43.4</Infant>
+	<Neonational>25.3</Neonational>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<Year>2007</Year>
+	<underFive>58.5</underFive>
+	<Infant>50.35</Infant>
+	<Neonational>24.4</Neonational>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<Year>2008</Year>
+	<underFive>56.2</underFive>
+	<Infant>40.3</Infant>
+	<Neonational>23.6</Neonational>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<Year>2009</Year>
+	<underFive>53.7</underFive>
+	<Infant>38.8</Infant>
+	<Neonational>22.9</Neonational>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<Year>2010</Year>
+	<underFive>70.6</underFive>
+	<Infant>37.4</Infant>
+	<Neonational>22.2</Neonational>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<Year>2011</Year>
+	<underFive>49.3</underFive>
+	<Infant>36.0</Infant>
+	<Neonational>21.5</Neonational>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<Year>2012</Year>
+	<underFive>47.3</underFive>
+	<Infant>34.7</Infant>
+	<Neonational>20.8</Neonational>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<Year>2013</Year>
+	<underFive>45.5</underFive>
+	<Infant>33.6</Infant>
+	<Neonational>20.2</Neonational>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<Year>2014</Year>
+	<underFive>43.7</underFive>
+	<Infant>50.35</Infant>
+	<Neonational>19.6</Neonational>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<Year>2015</Year>
+	<underFive>42.2</underFive>
+	<Infant>31.4</Infant>
+	<Neonational>19.1</Neonational>
+</JSON_ARRAY>
+<JSON_ARRAY>
+	<Year>2016</Year>
+	<underFive>40.8</underFive>
+	<Infant>30.5</Infant>
+	<Neonational>18.6</Neonational>
+</JSON_ARRAY>
