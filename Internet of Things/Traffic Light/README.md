@@ -1,0 +1,1 @@
+This program is meant to simulate an intersection.  Instead of using a motion sensor to indicate a car is present, it uses a button to imitate the presence of a car which then triggers the lights to change.
