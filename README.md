@@ -1,2 +1,2 @@
 # Programming-Progress
-Repository consisting most of my coding files.  Has files from when I had just started learning to code to present day.
+Repository consisting of a majority of my work as a programming.  Some programs I wrote when first learning to code and others are much more recent.
