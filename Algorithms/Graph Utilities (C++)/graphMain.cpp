@@ -1,5 +1,3 @@
-//file: graphMain.cpp (just an example; use this if you wish)
-
 #include <iostream>
 
 using namespace std;
