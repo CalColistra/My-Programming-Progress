@@ -1,1 +1,1 @@
-Java implementation of Kruskal's MST (min spanning tree) algorithm. Edge.java contains the definition of an edge object (including the weight associated with the edge).  Kruskal.java is where the minimum spanning tree is found.
+Java implementation of Kruskal's MST (min spanning tree) algorithm. Edge.java contains the definition of an edge object (including the weight associated with the edge).  The algorithm that finds the minimum spanning tree is found in Kruskal.java.
