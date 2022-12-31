@@ -1,4 +1,4 @@
-       An interpreter implemented in Java.  The interpreter recieves & executes the following instructions:
+       An interpreter implemented in Java.  The interpreter receives & executes the following instructions:
        
 	      ADDI	r4	12	<-- add value of 12 to contents of register 4
 	      ADDM	r1	92	<-- add value in memory location 92 to contents of register 1
