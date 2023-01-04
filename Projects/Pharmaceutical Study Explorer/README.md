@@ -7,6 +7,8 @@ A link to my website: <a href="http://grevera.ddns.net/~thegreatgazoo/"> here</a
 <img width="639" alt="greatgazoowebsite" src="https://user-images.githubusercontent.com/82903402/210653638-4d376bb6-37bd-4de0-bc23-e6daf8181da7.png">
 # StudyA.php:
 <img width="638" alt="studyA" src="https://user-images.githubusercontent.com/82903402/210654474-447d2d31-ee70-48eb-8de8-3c6ee4f2c087.png">
+# addB.php:
+<img width="638" alt="addB" src="https://user-images.githubusercontent.com/82903402/210655351-891165e4-5b50-4ab3-a993-8c9fa5b587d8.png">
 # subjectC.php:
 <img width="639" alt="subjectC" src="https://user-images.githubusercontent.com/82903402/210654506-5b96bfb4-d004-47d9-ab87-cb2ccd1e2fcd.png">
 <img width="638" alt="subjectC2" src="https://user-images.githubusercontent.com/82903402/210654518-6521df47-f13d-4eca-9d72-50d3169890d9.png">
