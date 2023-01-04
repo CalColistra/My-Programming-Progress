@@ -1,0 +1,33 @@
+Username: thegreatgazoo
+Password: 658908
+
+To open your files from the browser:
+grevera.ddns.net/~thegreatgazoo/
+
+psftp:
+    To log into grevera server use:
+        open grevera.ddns.net
+    To get a file use:
+        get <fileName>
+    To put a file use:
+        put <fileName>
+
+SSH (putty):
+    grevera.ddns.net
+    To edit/create a file use:
+        nano <fileName>
+    To run a php file use:
+        php <fileName>
+    To move a file:
+        mv <fileName> <location>
+    To use Redis CLI:
+        redis-cli --user thegreatgazoo --pass 658908
+        NOTE:   all keys must be prefixed with username: 
+                (your username followed by a colon). 
+                This allows multiple users to have separate keys.
+        To list all of your keys that are set, enter
+	        KEYS thegreatgazoo:*
+        To store the value bar in the key foo:
+	        SET thegreatgazoo:foo bar
+        To get a value stored in key foo:
+            GET thegreatgazoo:foo
