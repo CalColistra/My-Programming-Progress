@@ -3,7 +3,7 @@
     error_reporting( E_ALL );
 
     // https://phpredis.github.io/phpredis/Redis.html
-    $me = 'thegreatgazoo';			// <-- change to your username
+    $me = '<username>';			// <-- change to your username
     $studyid = 12700;
 
     //connect to redis server on localhost
@@ -11,7 +11,7 @@
     $redis->connect( 'localhost' );
     echo "<!-- connected. --> \n";
 
-    $redis->auth( [$me, '658908'] );	// <-- change to your password
+    $redis->auth( [$me, '<password>'] );	// <-- change to your password
     echo "<!-- logged in. --> \n";
 
     //check whether server is running or not
